@@ -45,7 +45,7 @@ pnpm dev:comic
 <h2 align="center">Nodejs爬虫程序集</h2>
 
 <p align="center">
-  <img src="img/spider.jpg" width="500" alt="NodeJs爬虫" />
+  <img src="src/assets//spider.jpg" width="500" alt="NodeJs爬虫" />
 </p>
 
 ### 项目简介
@@ -66,7 +66,7 @@ pnpm dev:comic
 
 对于这个漫画网站我们可以直接爬取接口来获取图片url，然后将图片保存。结果如图：
 
-<img src="img/comic-previce.jpg" width="600">
+<img src="src/assets//comic-previce.jpg" width="600">
 
 完整源代码请看 `src/comic.js`。
 
