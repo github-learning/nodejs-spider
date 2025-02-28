@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "main": "index.js",
   "scripts": {
-    "dev:comic": "nodemon src/comic.js",
+    "dev:comic": "nodemon comic.js",
     "dev:mobile": "nodemon mobile.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
